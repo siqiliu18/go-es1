@@ -6,3 +6,5 @@
 #### Examples
 1. https://developer.okta.com/blog/2021/04/23/elasticsearch-go-developers-guide
 2. https://www.youtube.com/watch?v=j0RiWwef8Z8
+#### Must study
+- https://outcrawl.com/go-elastic-search-service
