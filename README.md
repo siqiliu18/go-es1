@@ -8,3 +8,4 @@
 2. https://www.youtube.com/watch?v=j0RiWwef8Z8
 #### Must study
 - https://outcrawl.com/go-elastic-search-service
+- https://blog.logrocket.com/using-elasticsearch-logstash-and-kibana-with-go-applications/
